@@ -42,3 +42,8 @@ Pretendo revisitar este projeto para:
 
 ## 💡 Observação
 Este foi um dos meus primeiros projetos na área de tecnologia e representa o início da minha jornada como desenvolvedor.
+
+---
+
+## 🌐 Acesse o projeto
+🔗 https://seuusuario.github.io/clone-starbucks-html-css/
