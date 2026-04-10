@@ -37,6 +37,7 @@ Pretendo revisitar este projeto para:
 ---
 
 ## 📸 Preview
+![Preview](./imagens/preview.png)
 
 ---
 
