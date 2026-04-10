@@ -37,7 +37,12 @@ Pretendo revisitar este projeto para:
 ---
 
 ## 📸 Preview do projeto
-![Preview](./imagens/preview.png)
+<p align="center">
+  <img src="./imagens/preview.png" width="700">
+</p>
+
+## 🌐 Acesse o projeto
+https://seuusuario.github.io/clone-starbucks-html-css/
 
 ---
 
