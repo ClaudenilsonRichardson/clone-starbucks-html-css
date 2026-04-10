@@ -36,7 +36,7 @@ Pretendo revisitar este projeto para:
 
 ---
 
-## 📸 Preview
+## 📸 Preview do projeto
 ![Preview](./imagens/preview.png)
 
 ---
