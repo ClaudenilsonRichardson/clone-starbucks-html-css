@@ -42,7 +42,7 @@ Pretendo revisitar este projeto para:
 </p>
 
 ## 🌐 Acesse o projeto
-https://seuusuario.github.io/clone-starbucks-html-css/
+https://claudenilsonrichardson.github.io/clone-starbucks-html-css/
 
 ---
 
